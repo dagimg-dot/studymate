@@ -1,16 +1,5 @@
 # studymate
 
-Studymate is a mobile applicatio that will be your personal study assistant. It will help you to create flashcards and quizzes, and it will help you to study them. It is powered by chatGPT-3.
+Studymate is a mobile application that will be your personal study assistant. It will help you to create flashcards and quizzes, and it will help you to study them. It is powered by chatGPT-3.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## More features coming soon!
